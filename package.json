@@ -24,7 +24,7 @@
     "apexcharts": "^3.27.3",
     "consola": "^2.15.3",
     "core-js": "^3.25.3",
-    "date-fns": "^2.23.0",
+    "date-fns": "^4.1.0",
     "fs": "^0.0.1-security",
     "nuxt": "^2.15.8",
     "nuxt-i18n": "^6.28.1",
